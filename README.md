@@ -1,2 +1,3 @@
-# prankurfriends
-a python code which many messages to ur favorite person
+a code which can send many messages to ur friends
+ need-pyautodui
+      python 3
